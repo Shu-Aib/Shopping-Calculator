@@ -2,6 +2,8 @@
 
 ShoppingCalculator is a Java console application designed to assist users in calculating the total cost of selected shopping items. The application prompts the user to enter the names and prices of three different items. It then displays each item along with its corresponding price and concludes by showing the total cost of all items combined.
 
+The ShoppingCalculator app helps you figure out how much you will spend on the items you want to buy. You just enter the names and prices of the items, and it keeps track of your costs. This makes it easier to stick to a budget while shopping because you can see a list of everything you've chosen and know the total amount you’ll pay.
+
 Key Features and Functionalities:
 
 1. User Input:
