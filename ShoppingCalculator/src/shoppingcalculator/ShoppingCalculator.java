@@ -9,7 +9,7 @@ public class ShoppingCalculator {
     public static void main(String[] args) {//        main method
         Scanner kbd = new Scanner (System.in);//        Reads what is typed out
         String name1 = null;//        the name withouta value
-        kbd.useLocale(Locale.ENGLISH);//        Tells the scanner to se english for the value
+        kbd.useLocale(Locale.ENGLISH);//        Tells the scanner to set english for the value
         
         double se,sl,sg,sd,sb;//        set of values
         double tot;//        total
