@@ -50,7 +50,7 @@ public class ShoppingCalculator {
 
        System.out.println("--------------------------------------------------");
        
-//       calculates te total
+//       calculates the total
        tot = se + sl + sg;
        System.out.println("You have selected to buy the following items: :");
        System.out.println("total : R" + tot);
